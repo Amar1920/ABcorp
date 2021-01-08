@@ -1,0 +1,12 @@
+@media (max-width: 600px) {
+    #footerdespair{
+        display: none;
+    }
+    #colorchange {
+        color: black;
+        font-weight: bold;
+    }
+    #coloraero{
+        color:crimson;
+    }
+  };

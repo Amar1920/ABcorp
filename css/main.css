@@ -1,3 +1,7 @@
+
+
+
+
 @media (max-width: 600px) {
     #footerdespair{
         display: none;
@@ -8,5 +12,9 @@
     }
     #coloraero{
         color:crimson;
+    }
+    #colordark {
+        color: navy;
+        font-weight: bold;
     }
   };

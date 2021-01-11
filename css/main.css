@@ -35,4 +35,7 @@
     #offers img{
         margin: 1rem;
     }
+    #brands{
+        display: none;
+    }
   };
